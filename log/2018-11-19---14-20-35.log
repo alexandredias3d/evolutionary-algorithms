@@ -1,0 +1,950 @@
+2018-11-19 14:20:35,998	[EvolutionStrategy :INFO    ]:	started running (μ + λ)-ES
+2018-11-19 14:20:35,998	[EvolutionStrategy :INFO    ]:	creating initial population
+2018-11-19 14:20:35,998	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,015	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.844]
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	finished creating initial population
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,015	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,015	[Individual        :DEBUG   ]:	fitness 0.28695173666700957
+2018-11-19 14:20:36,015	[EvolutionStrategy :DEBUG   ]:	current_gen:0
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,015	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,015	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,015	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[5.87]
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,015	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,015	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,015	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[2.15]
+2018-11-19 14:20:36,015	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,015	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-3.61]
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,016	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.24]
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,016	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[3.37]
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	fitness 0.28695173666700957
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	fitness -33.41578252178849
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	fitness -3.6232579367554942
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	fitness -12.058939603836727
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,016	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,016	[Individual        :DEBUG   ]:	fitness -0.5366970625616998
+2018-11-19 14:20:36,016	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,017	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,017	[Individual        :DEBUG   ]:	fitness -10.329170118192668
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	best individual in generation 0: Individual: num_of_genes:1 fitness:0.28695173666700957 chromosome:[0.844]
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	current_gen:1
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,017	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,017	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-3.75]
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,017	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,017	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-2.94]
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,017	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,017	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.34]
+2018-11-19 14:20:36,017	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,017	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.782]
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,018	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.797]
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	fitness 0.28695173666700957
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	fitness -13.078685889627517
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	fitness -7.640691264409911
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	fitness -0.8003568183952936
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	fitness 0.3880264092552257
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,018	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,018	[Individual        :DEBUG   ]:	fitness 0.3655813129362303
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,018	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,018	[EvolutionStrategy :DEBUG   ]:	best individual in generation 1: Individual: num_of_genes:1 fitness:0.3880264092552257 chromosome:[-0.782]
+2018-11-19 14:20:36,018	[EvolutionStrategy :DEBUG   ]:	current_gen:2
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,018	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,019	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,019	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,019	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.9]
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,019	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,019	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,019	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.81]
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,019	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,019	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,019	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[4.03]
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,019	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,019	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,019	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-3.84]
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,019	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,019	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,019	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.811]
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,019	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	fitness 0.3880264092552257
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	fitness -2.610254380256947
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	fitness -2.278275023040283
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	fitness -15.208283510051931
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	fitness -13.779815755543341
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	fitness 0.3428558654247075
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,020	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,020	[EvolutionStrategy :DEBUG   ]:	best individual in generation 2: Individual: num_of_genes:1 fitness:0.3880264092552257 chromosome:[-0.782]
+2018-11-19 14:20:36,020	[EvolutionStrategy :DEBUG   ]:	current_gen:3
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,020	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-4.79]
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,020	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,020	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,020	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.145]
+2018-11-19 14:20:36,020	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,021	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.327]
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,021	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.274]
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,021	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-2.23]
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	fitness 0.3880264092552257
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	fitness -21.940119142374286
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	fitness 0.8930146967844557
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,021	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,021	[Individual        :DEBUG   ]:	fitness 0.9246514068004288
+2018-11-19 14:20:36,021	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,022	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,022	[Individual        :DEBUG   ]:	fitness -3.962901467962787
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	best individual in generation 3: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	current_gen:4
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,022	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,022	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.2]
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,022	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,022	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.24]
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,022	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,022	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.0]
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,022	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,022	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,022	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.19]
+2018-11-19 14:20:36,022	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,023	[EvolutionStrategy :DEBUG   ]:	sigma: 2.0
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-2.19]
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	fitness -0.44882904561040426
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	fitness -0.5388524319829524
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	fitness -0.00989533111009444
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	fitness -0.4162050733930527
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,023	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,023	[Individual        :DEBUG   ]:	fitness -3.802098220269828
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,023	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,023	[EvolutionStrategy :DEBUG   ]:	best individual in generation 4: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,023	[EvolutionStrategy :DEBUG   ]:	current_gen:5
+2018-11-19 14:20:36,023	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,024	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,024	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,024	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,024	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,024	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.718]
+2018-11-19 14:20:36,024	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,024	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,024	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,024	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[3.24]
+2018-11-19 14:20:36,024	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,024	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,024	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,024	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.25]
+2018-11-19 14:20:36,024	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,024	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,024	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,024	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.479]
+2018-11-19 14:20:36,024	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,024	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,024	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,024	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.51]
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	fitness 0.4844968870677806
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	fitness -9.47605560697724
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	fitness -0.5625292170938412
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	fitness 0.7703050413388433
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	fitness 0.740318360544231
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,025	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,025	[EvolutionStrategy :DEBUG   ]:	best individual in generation 5: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,025	[EvolutionStrategy :DEBUG   ]:	current_gen:6
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,025	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,025	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,025	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.854]
+2018-11-19 14:20:36,025	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,025	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-2.92]
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,026	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.73]
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,026	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.74]
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,026	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.547]
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	fitness 0.27148716387048233
+2018-11-19 14:20:36,026	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,026	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,026	[Individual        :DEBUG   ]:	fitness -7.536356738356968
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,027	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,027	[Individual        :DEBUG   ]:	fitness -2.0013054838496163
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,027	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,027	[Individual        :DEBUG   ]:	fitness -2.0197332003651383
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,027	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,027	[Individual        :DEBUG   ]:	fitness 0.700278315127941
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,027	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,027	[EvolutionStrategy :DEBUG   ]:	best individual in generation 6: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,027	[EvolutionStrategy :DEBUG   ]:	current_gen:7
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,027	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,027	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,027	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.44]
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,027	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,027	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,027	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.315]
+2018-11-19 14:20:36,027	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,027	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,027	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.71]
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,028	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.858]
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,028	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.722]
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	fitness -1.0819577665204503
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	fitness 0.9009852314938247
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	fitness 0.4959290900116027
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	fitness 0.26420857589822966
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,028	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,028	[Individual        :DEBUG   ]:	fitness 0.47923047550006703
+2018-11-19 14:20:36,028	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,028	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	best individual in generation 7: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	current_gen:8
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,029	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,029	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.439]
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,029	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,029	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.83]
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,029	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,029	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.11]
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,029	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,029	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.55]
+2018-11-19 14:20:36,029	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,029	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-3.94]
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	fitness 0.8075011137828587
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	fitness -2.341983172338587
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	fitness -0.23284544550634023
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	fitness 0.6980160906722199
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,030	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,030	[Individual        :DEBUG   ]:	fitness -14.509160781893257
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,030	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,030	[EvolutionStrategy :DEBUG   ]:	best individual in generation 8: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,030	[EvolutionStrategy :DEBUG   ]:	current_gen:9
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,030	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,030	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,031	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,031	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.335]
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,031	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,031	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,031	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.576]
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,031	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,031	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,031	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.14]
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,031	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,031	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,031	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.895]
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,031	[EvolutionStrategy :DEBUG   ]:	sigma: 1.634
+2018-11-19 14:20:36,031	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,031	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.893]
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,031	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,031	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	fitness 0.887911879959814
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	fitness 0.6682853513579707
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	fitness -0.2991031889071347
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	fitness 0.19866421172377646
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	fitness 0.20308423203584614
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,032	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,032	[EvolutionStrategy :DEBUG   ]:	best individual in generation 9: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,032	[EvolutionStrategy :DEBUG   ]:	current_gen:10
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,032	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.62]
+2018-11-19 14:20:36,032	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,032	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,032	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,032	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.554]
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,033	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.38]
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,033	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.903]
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,033	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.23]
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	fitness -1.634157378083219
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	fitness 0.6927863570174406
+2018-11-19 14:20:36,033	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,033	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,033	[Individual        :DEBUG   ]:	fitness -0.9044583814937575
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,034	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,034	[Individual        :DEBUG   ]:	fitness 0.18417621114919824
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,034	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,034	[Individual        :DEBUG   ]:	fitness -0.5078043607904827
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	best individual in generation 10: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	current_gen:11
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,034	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,034	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.894]
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,034	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,034	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.362]
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,034	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,034	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.692]
+2018-11-19 14:20:36,034	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,034	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.567]
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,035	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.55]
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	fitness 0.2008473091191304
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	fitness 0.8687497983053222
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	fitness 0.521041293300218
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	fitness 0.679039277936748
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,035	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,035	[Individual        :DEBUG   ]:	fitness -1.4028393539229027
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,035	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,035	[EvolutionStrategy :DEBUG   ]:	best individual in generation 11: Individual: num_of_genes:1 fitness:0.9788564760401909 chromosome:[-0.145]
+2018-11-19 14:20:36,035	[EvolutionStrategy :DEBUG   ]:	current_gen:12
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,035	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,036	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,036	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,036	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.718]
+2018-11-19 14:20:36,036	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,036	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,036	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,036	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.0603]
+2018-11-19 14:20:36,036	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,036	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,036	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,036	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.0149]
+2018-11-19 14:20:36,036	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,036	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,036	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,036	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-2.87]
+2018-11-19 14:20:36,036	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,036	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,036	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,036	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[2.13]
+2018-11-19 14:20:36,036	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,036	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	fitness 0.9788564760401909
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	fitness 0.4840202744854222
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	fitness 0.9963628046219052
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	fitness -7.260327237843491
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	fitness -3.534475939312106
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,037	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,037	[EvolutionStrategy :DEBUG   ]:	best individual in generation 12: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,037	[EvolutionStrategy :DEBUG   ]:	current_gen:13
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,037	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,037	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.2]
+2018-11-19 14:20:36,037	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,037	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,037	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.839]
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,038	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.4]
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,038	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.984]
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,038	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.148]
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	fitness -0.4480054906344475
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	fitness 0.29633785575704596
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,038	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,038	[Individual        :DEBUG   ]:	fitness -0.9629293838951554
+2018-11-19 14:20:36,038	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,039	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,039	[Individual        :DEBUG   ]:	fitness 0.03149420659989777
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,039	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,039	[Individual        :DEBUG   ]:	fitness 0.9779568690439544
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,039	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,039	[EvolutionStrategy :DEBUG   ]:	best individual in generation 13: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,039	[EvolutionStrategy :DEBUG   ]:	current_gen:14
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,039	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,039	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,039	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.39]
+2018-11-19 14:20:36,039	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,057	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,057	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,057	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.11]
+2018-11-19 14:20:36,057	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,057	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,057	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,057	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.66]
+2018-11-19 14:20:36,057	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,057	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,057	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,057	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.561]
+2018-11-19 14:20:36,057	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,057	[EvolutionStrategy :DEBUG   ]:	sigma: 1.3349779999999998
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.88]
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	fitness -0.9419461794528909
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	fitness -0.22526640370246853
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	fitness -1.742059242611354
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	fitness 0.6857650997467235
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,058	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,058	[Individual        :DEBUG   ]:	fitness -2.5443758615157455
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,058	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,058	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,058	[EvolutionStrategy :DEBUG   ]:	best individual in generation 14: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,059	[EvolutionStrategy :DEBUG   ]:	current_gen:15
+2018-11-19 14:20:36,059	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,059	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,059	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,059	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,059	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,059	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.475]
+2018-11-19 14:20:36,059	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,059	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,059	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,059	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.29]
+2018-11-19 14:20:36,059	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,059	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,059	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,059	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.728]
+2018-11-19 14:20:36,059	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,059	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,060	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,060	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.55]
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,060	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,060	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,060	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.116]
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,060	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,060	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,060	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,060	[Individual        :DEBUG   ]:	fitness 0.7744723494365582
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,060	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,060	[Individual        :DEBUG   ]:	fitness -0.6659128520032709
+2018-11-19 14:20:36,060	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,060	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,060	[Individual        :DEBUG   ]:	fitness 0.4694271476957842
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,061	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,061	[Individual        :DEBUG   ]:	fitness -1.3953261858464239
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,061	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,061	[Individual        :DEBUG   ]:	fitness 0.9865615726234738
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,061	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,061	[EvolutionStrategy :DEBUG   ]:	best individual in generation 15: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,061	[EvolutionStrategy :DEBUG   ]:	current_gen:16
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,061	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,061	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,061	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.0624]
+2018-11-19 14:20:36,061	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,061	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,062	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,062	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.75]
+2018-11-19 14:20:36,062	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,062	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,062	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,062	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.556]
+2018-11-19 14:20:36,062	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,062	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,062	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,062	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.502]
+2018-11-19 14:20:36,062	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,062	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,063	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.256]
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,063	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,063	[Individual        :DEBUG   ]:	fitness 0.9961026327339676
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,063	[Individual        :DEBUG   ]:	fitness -2.069696490305522
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,063	[Individual        :DEBUG   ]:	fitness 0.6913232852567394
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,063	[Individual        :DEBUG   ]:	fitness 0.748188816944505
+2018-11-19 14:20:36,063	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,063	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,064	[Individual        :DEBUG   ]:	fitness 0.9343599532618679
+2018-11-19 14:20:36,064	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,064	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,064	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,064	[EvolutionStrategy :DEBUG   ]:	best individual in generation 16: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,064	[EvolutionStrategy :DEBUG   ]:	current_gen:17
+2018-11-19 14:20:36,064	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,064	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,064	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,064	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,064	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,064	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.957]
+2018-11-19 14:20:36,064	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,064	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,064	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,065	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.48]
+2018-11-19 14:20:36,065	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,065	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,065	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,065	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.348]
+2018-11-19 14:20:36,065	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,065	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,065	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,065	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.122]
+2018-11-19 14:20:36,065	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,065	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,065	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,065	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.329]
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,066	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,066	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,066	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,066	[Individual        :DEBUG   ]:	fitness 0.08331123945016483
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,066	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,066	[Individual        :DEBUG   ]:	fitness 0.7695243339099826
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,066	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,066	[Individual        :DEBUG   ]:	fitness 0.8791694817650307
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,066	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,066	[Individual        :DEBUG   ]:	fitness 0.9850918352517927
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,066	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,066	[Individual        :DEBUG   ]:	fitness 0.8917450202223933
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,066	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,066	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,066	[EvolutionStrategy :DEBUG   ]:	best individual in generation 17: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,067	[EvolutionStrategy :DEBUG   ]:	current_gen:18
+2018-11-19 14:20:36,067	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,067	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,067	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,067	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,067	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,067	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[1.51]
+2018-11-19 14:20:36,067	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,067	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,067	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,067	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.244]
+2018-11-19 14:20:36,067	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,067	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,068	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,068	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-1.14]
+2018-11-19 14:20:36,068	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,068	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,068	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,068	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.9]
+2018-11-19 14:20:36,068	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,068	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,068	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,068	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.828]
+2018-11-19 14:20:36,068	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,068	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,068	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,068	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,068	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,068	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,069	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,069	[Individual        :DEBUG   ]:	fitness -1.2856082661318298
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,069	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,069	[Individual        :DEBUG   ]:	fitness 0.9406645966503671
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,069	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,069	[Individual        :DEBUG   ]:	fitness -0.29142676028173087
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,069	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,069	[Individual        :DEBUG   ]:	fitness 0.18991659508033032
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,069	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,069	[Individual        :DEBUG   ]:	fitness 0.3143519431609354
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,069	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,069	[EvolutionStrategy :DEBUG   ]:	best individual in generation 18: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,069	[EvolutionStrategy :DEBUG   ]:	current_gen:19
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	getting parent for mutation
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	creating new population
+2018-11-19 14:20:36,069	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,069	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,070	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,070	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.647]
+2018-11-19 14:20:36,070	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,070	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,070	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,070	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.207]
+2018-11-19 14:20:36,070	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,070	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,070	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,070	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.0368]
+2018-11-19 14:20:36,070	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,070	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,070	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,070	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[0.662]
+2018-11-19 14:20:36,070	[EvolutionStrategy :INFO    ]:	mutating individual
+2018-11-19 14:20:36,070	[EvolutionStrategy :DEBUG   ]:	sigma: 1.0906770259999998
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	created individual instance
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	Individual: num_of_genes:1 fitness:0 chromosome:[-0.184]
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	finished created new population
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating population
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating individual #0
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	fitness 0.9997767495540385
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating individual #1
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	fitness 0.5809140962769868
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating individual #2
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	fitness 0.9570487000928023
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating individual #3
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	fitness 0.9986481175025376
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating individual #4
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	fitness 0.5619805932148265
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	evaluating individual #5
+2018-11-19 14:20:36,071	[Individual        :INFO    ]:	computing the fitness
+2018-11-19 14:20:36,071	[Individual        :DEBUG   ]:	fitness 0.966129142760151
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	applying plus selection operator
+2018-11-19 14:20:36,071	[EvolutionStrategy :DEBUG   ]:	current population after + op:
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	finished applying plus selection operator
+2018-11-19 14:20:36,071	[EvolutionStrategy :DEBUG   ]:	best individual in generation 19: Individual: num_of_genes:1 fitness:0.9997767495540385 chromosome:[-0.0149]
+2018-11-19 14:20:36,071	[EvolutionStrategy :INFO    ]:	finished running (μ + λ)-ES
